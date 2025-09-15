@@ -1,4 +1,4 @@
-package hw_4.service;
+package hw_4.mapper;
 
 import hw_4.dto.UserRequestDTO;
 import hw_4.dto.UserResponseDTO;

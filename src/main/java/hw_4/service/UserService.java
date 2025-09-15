@@ -5,6 +5,7 @@ import hw_4.dto.UserResponseDTO;
 import hw_4.exception.service.EmptyUserListException;
 import hw_4.exception.service.InvalidUserException;
 import hw_4.exception.service.UserNotFoundException;
+import hw_4.mapper.UserMapper;
 import hw_4.model.User;
 import hw_4.repository.UserRepository;
 import org.slf4j.Logger;
